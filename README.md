@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Vladnik937
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Мой профиль
 
-<!---
-vladislav949/vladislav949 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## О себе
+
+
+## Статистика использования языков
+![Статистика языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladnik937&layout=compact&hide_border=true)
+
+## Активность
+![Активность GitHub](https://github-readme-stats.vercel.app/api?username=Vladnik937&show_icons=true&theme=radical)
